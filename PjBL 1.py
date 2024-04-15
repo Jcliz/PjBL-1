@@ -57,7 +57,7 @@ while acesso == True:
         else:
             print("Senha incorreta.\n")
 
-#MENU ADMINISTRADOR#1
+#MENU ADMINISTRADOR#
     elif menu_inicio == 2:
         codigo_adm = int(input("Código do administrador: \n"))
 
